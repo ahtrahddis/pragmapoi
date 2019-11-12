@@ -1,4 +1,4 @@
-# A pragmatic approach on the Stages of the Progress of Insight
+# A pragmatic approach on the stages of the Progress of Insight
 
 This e-book is a combination of texts by Kenneth Folk and Ron Crouch regarding the stages of the Progress of Insight
 
