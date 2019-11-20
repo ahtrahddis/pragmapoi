@@ -1,6 +1,6 @@
 # Preface
 
-This e-book is a pragmatic presentation of the Progress of Insight maps by Kenneth Folk and Ron Crouch. 
+This e-book is a pragmatic presentation of the Progress of Insight map by Kenneth Folk and Ron Crouch. 
 
 
 # The Progress of Insight Map by Kenneth Folk
