@@ -649,4 +649,4 @@ This e-book was created by [atrahhdis](https://github.com/atrahhdis) using [mark
 
 ## Version
 
-V 1.1 - 2019-11-10
+V 1.2 - 2019-12-30
