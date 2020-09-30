@@ -644,9 +644,9 @@ This e-book is a compilation of the following texts written by [Kenneth Folk](ht
 
 ## About this e-book
 
-This e-book was created by [atrahhdis](https://github.com/atrahhdis) using [markdown](https://en.wikipedia.org/wiki/Markdown), [pandoc](https://pandoc.org/) and [calibre](https://calibre-ebook.com/).
+This e-book was created by [ahtrahddis](https://ahtrahddis.github.io) using [markdown](https://en.wikipedia.org/wiki/Markdown), [pandoc](https://pandoc.org/) and [calibre](https://calibre-ebook.com/).
 
 
 ## Version
 
-V 1.2 - 2019-12-30
+V 1.3 - 2020-09-30
